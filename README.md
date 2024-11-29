@@ -3,6 +3,7 @@
 <div align="center">
 
 ![Weather 3D React App](./screenshot.png)
+(./screenshot2.png)
 
 A stunning, interactive 3D weather visualization application built with modern web technologies.
 
